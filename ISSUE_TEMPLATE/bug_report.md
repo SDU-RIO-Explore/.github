@@ -1,9 +1,9 @@
 ---
 name: Bug Report 🐞
 about: Did you find a bug?
-title: ''
+title: 'Bug Report 🐞 {short-description}'
 labels: bug, triage
-assignees: ''
+assignees: 'JV-conseil'
 
 ---
 
@@ -17,8 +17,11 @@ assignees: ''
 
 -->
 
-- [ ] I have searched the [issues] of this repo and believe that this is not a duplicate.
-- [ ] If an exception occurs when executing a command, I executed it again in debug mode (`DEBUF = True` in settings).
+- [ ] I have activated the browser Private mode to evaluate if the error still happens.
+- [ ] I have checked that no other similar [issues][issues] or [discussions][discussions] are already opened and believe that this is not a duplicate.
+- [ ] If an exception occurs when executing a command, I execute it again in debug mode (`DEBUF = True` in settings).
+
+---
 
 ### Describe the bug 🐛
 
@@ -61,3 +64,4 @@ assignees: ''
 <!-- links -->
 
 [issues]: https://github.com/SDU-RIO-Explore/Welcome/issues
+[discussions]: https://github.com/SDU-RIO-Explore/Welcome/discussions
