@@ -18,6 +18,7 @@ assignees: 'JV-conseil'
 -->
 
 - [ ] I have activated the browser Private mode to evaluate if the error still happens.
+- [ ] I have turn-off any extension on my browser like adblock that may interfere with the app behaviour.
 - [ ] I have checked that no other similar [issues][issues] or [discussions][discussions] are already opened and believe that this is not a duplicate.
 - [ ] If an exception occurs when executing a command, I execute it again in debug mode (`DEBUF = True` in settings).
 
@@ -27,7 +28,7 @@ assignees: 'JV-conseil'
 
 > A clear and precise description of what the bug is, please be descriptive! Thanks 🙌
 
-### To Reproduce 🚶
+### To Reproduce 🔂
 
 > Steps to reproduce the behavior:
 >
